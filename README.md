@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Al-Amin </h1> -->
 <!-- <h3 align="center">A CS student from Bangladesh</h3> -->
-
+http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>

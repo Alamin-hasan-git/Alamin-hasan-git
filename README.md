@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alamin-hasan-052639319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alamin-hasan-052639319/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alamin3255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alamin3255/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2f4l_4min__%3ffbclid%3diwzxh0bgnhzw0cmtaaar0l8_rwlebt9h4npu_xge4lg0_iqbexd7jhydabvyfb13nq0rf8n6b27eu_aem_zdclju3jxzphtxh83crsxa&h=at2d5ajw-edkb0pcduuks3usx644qormzgmxnblxd-n9aerwcz1xls3ec-7vyyhczi3gzrelrd1zn8agwwwul6j5vxllupmy1bixa3pvx0cvs05-lwgxuftfn2f9lrfv_bt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://l.facebook.com/l.php?u=https%3a%2f%2fwww.instagram.com%2f4l_4min__%3ffbclid%3diwzxh0bgnhzw0cmtaaar0l8_rwlebt9h4npu_xge4lg0_iqbexd7jhydabvyfb13nq0rf8n6b27eu_aem_zdclju3jxzphtxh83crsxa&h=at2d5ajw-edkb0pcduuks3usx644qormzgmxnblxd-n9aerwcz1xls3ec-7vyyhczi3gzrelrd1zn8agwwwul6j5vxllupmy1bixa3pvx0cvs05-lwgxuftfn2f9lrfv_bt1" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hasan-git&show_icons=true&locale=en&layout=compact" alt="alamin-hasan-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamin-hasan-git&show_icons=true&locale=en" alt="alamin-hasan-git" /></p>
+

@@ -1,12 +1,12 @@
 <!-- <h1 align="center">Hi 👋, I'm Al-Amin </h1> -->
-<!-- <h3 align="center">A cse student from Bangladesh</h3> -->
+<!-- <h3 align="center">A cs student from Bangladesh</h3> -->
 
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>
 
 <samp>
-    <h3 align="center">I am <code><b>Abrar Khatib Lajim</b></code></h3>
+    <h3 align="center">I am <code><b>Al-Amin</b></code></h3>
     
 </samp>
 

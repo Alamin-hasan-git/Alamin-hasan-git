@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Al-Amin </h1> -->
 <!-- <h3 align="center">A CS student from Bangladesh</h3> -->
-http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+
+
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>
@@ -10,7 +10,7 @@ http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&line
     
 </samp>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Andriod+%2B+laravel;A+student+at+EWU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+[http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>

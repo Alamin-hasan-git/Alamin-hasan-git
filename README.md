@@ -18,7 +18,7 @@
 <b>
 
 # 💫 About Me:
-Aspiring Software Engineer 🚀<br>Dart, Flutter & JavaEnthusiast 💻<br>Crafting innovative apps like Ally Keeper 🌟<br>Exploring the fusion of tech, creativity, and human connection 🌍<br>Guy with a passion for ideas that matter.
+Aspiring Software Engineer 🚀<br>Dart, Flutter & JavaEnthusiast 💻<br>Exploring the fusion of tech, creativity, and human connection 🌍<br>Guy with a passion for ideas that matter.
 
 
 ## 🌐 Socials:

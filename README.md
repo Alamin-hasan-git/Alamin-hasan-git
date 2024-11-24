@@ -1,5 +1,22 @@
+<!-- <h1 align="center">Hi 👋, I'm Al-Amin </h1> -->
+<!-- <h3 align="center">A cse student from Bangladesh</h3> -->
+
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+)](https://git.io/typing-svg)</samp>
+
+<samp>
+    <h3 align="center">I am <code><b>Abrar Khatib Lajim</b></code></h3>
+    
+</samp>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+
+<!-- Git Header SVG -->
+<p><img width="40%" align="right" alt="Github Header" src="git-header2.svg"/></p>
+
+<b>
+
 # 💫 About Me:
 Aspiring Software Engineer 🚀<br>Dart, Flutter & JavaEnthusiast 💻<br>Crafting innovative apps like Ally Keeper 🌟<br>Exploring the fusion of tech, creativity, and human connection 🌍<br>Guy with a passion for ideas that matter.
 
@@ -27,3 +44,5 @@ Aspiring Software Engineer 🚀<br>Dart, Flutter & JavaEnthusiast 💻<br>Crafti
 [![](https://visitcount.itsvg.in/api?id=alamin-hasan-git&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+raw.githubusercontent.com
+

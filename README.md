@@ -10,7 +10,7 @@
     
 </samp>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Dart+%2B+Flutter;A+student+at+UGV;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Cloud+%2B+Devops;A+student+at+UGV;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header2.svg"/></p>
@@ -18,8 +18,8 @@
 <b>
 
 # 💫 About Me:
-Aspiring Software Engineer 🚀
-<br>Dart, Flutter & Java Enthusiast 💻<br>Exploring the fusion of tech, creativity, and human connection 🌍<br>Guy with a passion for ideas that matter.
+Aspiring Cloud Engineer 🚀
+<br>Cloud and Devops Enthusiast 💻<br>Exploring the fusion of tech, creativity, and human connection 🌍<br>Guy with a passion for ideas that matter.
 
 
 ## 🌐 Socials:
